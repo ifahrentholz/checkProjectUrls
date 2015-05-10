@@ -1,0 +1,5 @@
+data/**
+.idea/
+.sw*
+node_modules/
+.sass-cache
