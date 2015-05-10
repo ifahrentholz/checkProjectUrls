@@ -12,7 +12,7 @@ For example:
 ## Prerequisites
 - Node.js `http://nodejs.org`
 - MongoDB `brew install mongodb`
-- Ember.js `emberjs.com`
+- ~~Ember.js `emberjs.com`~~
 
 ## Installation
 Click on **Download ZIP** button in the right sidebar.
